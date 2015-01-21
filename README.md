@@ -1,10 +1,8 @@
 yii_short_link
 ==============
 
-***** YII укоротитель ссылок **********
-***** YII short link         ****************
-
-  DEMO http://lweb.pl.ua/yii_short_link
+***** <a href="http://lweb.pl.ua/yii_short_link">YII укоротитель ссылок </a>**********
+***** <a href="http://lweb.pl.ua/yii_short_link">YII short link </a> ****************
 
 
 1. Copy for this repository in directory accessible to the Web server. You can make this.
